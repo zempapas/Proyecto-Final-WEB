@@ -1,0 +1,35 @@
+* { font-size: 20px;  
+margin: 0px;
+padding: 0px;  }
+
+body {background-color: #da346b;}
+
+h1 {margin: 20px;
+    color: #2f0d4e;
+font-size: 3em;
+text-align: center;}
+h2{color:black}
+h3,h5{color: orange;}
+h4,h6{color: purple;}
+.parrafo::first-line {text-transform: uppercase;
+                    font-weight: bold;
+                    color: palegoldenrod;}
+.parrafo::first-letter {font-size:  5em;}
+.parrafo2::before {content: "I love you";
+                    display: block;
+                    width: 100px;
+                    height: 100px;
+                font-size: 0.8em;
+                background-image: url(../img/corazonporweiv.png);
+                background-size: 50px 50px;
+                background-repeat: no-repeat;
+                padding-top: 18px;}
+.parrafo2::after {content: "I love you";
+                    display: block;
+                    width: 100px;
+                    height: 100px;
+                font-size: 0.8em;
+                background-image: url(../img/corazonporweiv.png);
+                background-size: 50px 50px;
+                background-repeat: no-repeat;
+                padding-top: 18px;}

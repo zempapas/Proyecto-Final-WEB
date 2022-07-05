@@ -1,0 +1,25 @@
+*{margin: 0;
+  padding: 0;  
+}
+
+div, header, aside, nav, main, article, section, footer {}
+
+
+
+
+.logo{ width: 50px;}
+
+
+
+.logo img {width: 100%;
+            height: auto;}
+
+
+.navegador {background-color: /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#eafef4+0,35f193+100 */
+    background: rgb(234,254,244); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(234,254,244,1) 0%, rgba(53,241,147,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(234,254,244,1) 0%,rgba(53,241,147,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(234,254,244,1) 0%,rgba(53,241,147,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eafef4', endColorstr='#35f193',GradientType=0 ); /* IE6-9 */
+    }
+.action {}
