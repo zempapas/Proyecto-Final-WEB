@@ -1,0 +1,47 @@
+* {font-size: 20px;
+margin: 15px auto;
+padding: 0px;}
+
+
+body{background-image: url(../img/pink_rice.png);
+    margin: 15px auto;
+    width: 60%;
+        min-height: 1px;}
+h1{color: #ffffffcb;
+    font-family: 'Lobster' , cursive;
+    font-style: italic;
+    font-size: 60px;
+    background-color: rgba(0, 0, 255, 0.438);}
+.Portrait {display: block;
+            width: 75%;
+            margin: 25px auto;
+            background-color: whitesmoke;
+            padding: 10px;}
+.Descripcion { display: block;
+    width: 60%;
+    min-height: 1px;
+    background-color: #7b5ad62f;
+    margin: 15px auto;
+padding: 15px;}
+
+.favsong , h6{display: block;
+    text-align: center;
+    font-family: 'Lobster' , cursive;
+    color:#1a055279;
+    width: 60%;
+    display: flex;
+    min-height: 1px;
+    margin: auto;
+    background-color: #fff8a77c;
+    padding: 15px;}
+
+.favsong section {display: block;
+            width: 60%;}
+
+
+.favsong iframe {width: auto;
+                            height: 350px;}
+
+.bye {display: block;
+    text-align:end;
+    font-size: 5px;}
